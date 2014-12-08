@@ -1,4 +1,4 @@
-package com.github.jkstrauss.kavve.collect.test;
+package com.github.jkstrauss.kavve.test.collect;
 
 import java.util.ArrayList;
 import java.util.List;
