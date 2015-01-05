@@ -16,9 +16,9 @@ public class Iteration<V> {
   
   private final IterationalIterator<V> iterationalIterator;
   
-  private final V value;
+  public final V value;
   
-  private final int index;
+  public final int index;
   
   private Iteration(IterationalIterator<V> iterationalIterator, V value, int index) {
     this.iterationalIterator = iterationalIterator;
